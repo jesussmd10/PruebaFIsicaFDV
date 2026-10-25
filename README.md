@@ -31,6 +31,10 @@
 
 > ![Situación 5](./Assets/Media/p1_5.gif)
 
+> ![Situación 5](./Assets/Media/p1_5-2.gif)
+
+> ![Situación 5](./Assets/Media/p1_5-3.gif)
+
 * **Plano cinemático y fricción (`Physics Material`):** Plano cinemático, cubo físico y esfera física con fricción.
   * **Resultado:** Un plano cinemático no se desplaza ante impactos externos y actúa como un suelo firme controlado por código. La fricción definida mediante un `Physics Material` regula la resistencia al deslizamiento: un valor alto frena rápidamente al cubo y a la esfera, mientras que un valor bajo genera una superficie resbaladiza, similar al hielo.
 
